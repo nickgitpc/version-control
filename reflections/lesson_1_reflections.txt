@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Well, it helped in a few ways; let me tell you all about it! *Test*
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I'm not really answering these questions ... talk about good $ after bad.
