@@ -6,3 +6,5 @@ How could having easy access to the entire history of a file make you a more eff
 
 I deleted line 7 and replaced it with ... this!
 Also, I added line 8.
+
+Ok ... now these changes should only appear in my "edits1" branch ... wonder *if* **that** worked??
